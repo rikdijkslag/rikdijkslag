@@ -1,4 +1,4 @@
-### Hi, my name is Rik, I was born in 2004 and I am now studying software developer in the Netherlands. I learn c#, php, java, and html👋
+### Hi, my name is Rik, I was born in 2004 and I am now studying software developer in the Netherlands. I learn c#,👋
 
 <!--
 **rikdijkslag/rikdijkslag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
